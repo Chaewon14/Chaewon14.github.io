@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+{% comment %}
 
 {% include base_path %}
 
@@ -48,3 +49,5 @@ Publications
 Awards
 ======
 * [AWARD], [ORGANIZATION], 20XX
+
+{% endcomment %}
