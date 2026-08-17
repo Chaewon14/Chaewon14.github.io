@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+seo_title: "Chaewon Nam"
 excerpt: "M.S. student in EECS"
 author_profile: true
 redirect_from:
